@@ -52,6 +52,7 @@
             <url>http://spring-roo-repository.springsource.org/release</url>
         </pluginRepository>
     </pluginRepositories>
+    
     <dependencies>
         <!-- General dependencies for standard applications -->
         <dependency>
